@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paul-mcn
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning graphql and nextjs
 - 💞️ I’m looking to collaborate on any open source projects!
 - 📫 How to reach me -> paul.a.mcnamara@outlook.com
 
